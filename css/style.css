@@ -26,3 +26,11 @@ ul li{
 .button-group  a{
   margin: auto;
 }
+
+#loaderImage{
+  position:absolute;
+  top:120px;
+  left:50%;
+  width:100px;
+  margin:50px auto;
+}
